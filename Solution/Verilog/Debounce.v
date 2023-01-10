@@ -15,7 +15,7 @@ module Debounce(
 wire risingButton;
 
 /*[Counter --count 1024 --start risingButton]*/
-reg [7:0] debounceCounter;
+reg [10:0] debounceCounter;
 
 assign debouncedButton = button || debounceCounter > 0;
 endmodule

@@ -1,0 +1,10 @@
+{
+    "VSCodeWorkspaceFile": "DebounceSolution.code-workspace",
+    "ArcticFoxVersion": "0.0.1",
+    "ProjectName": "DebounceSolution",
+    "GeneratedLineIdentifier": "<>",
+    "VerilogFolders": [
+        "Verilog"
+    ],
+    "PathToVivadoProject": null
+}
