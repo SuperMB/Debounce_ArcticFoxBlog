@@ -34,7 +34,6 @@ wire risingButton;
 //https://tinyurl.com/af-counter
 reg [10:0] debounceCounter;
 
-
 //The following line is given to you. We want the debounced signal to be high
 //anytime that the button signal is high, or the debounceCounter has not returned
 //to 0. 

@@ -7,7 +7,6 @@ module DebounceTest;
 //https://tinyurl.com/af-testmodule
 
 
-
 initial begin
 
     #5000;
